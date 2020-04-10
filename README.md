@@ -1,7 +1,8 @@
-# HTML & CSS Badge / Ribbon
-A HTML &amp; CSS badge without Image
+### HTML & CSS Badge
+A pure HTML &amp; CSS badge without Image
 
-# TECH STACK
+### Tech Stack
 HTML, CSS 3
 
-# DEMO
+### Demo
+https://codepen.io/dsk90it/full/wRvRWZ
