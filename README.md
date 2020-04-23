@@ -1,4 +1,4 @@
-## Badge
+## HTML Badge
 A pure HTML &amp; CSS badge without Image
 
 ## Highlights & Benefits
